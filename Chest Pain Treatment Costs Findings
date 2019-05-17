@@ -4,7 +4,7 @@ The range of costs is very large, $78,623, with the smallest cost equal to $2,45
 
 The amount paid is far less. This is often due to nature of the United States healthcare system, where private insurers negotiate down the charges levied by hospitals.
 
-The small histogram on the left side of the plot displays the actual amount of money paid to the hospital.
+The small histogram - see Python code file - on the left side of the plot displays the actual amount of money paid to the hospital.
 
 
 
