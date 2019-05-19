@@ -1,3 +1,8 @@
 Quartiles are some of the most commonly used descriptive statistics. For example, You might see schools or universities think about quartiles when considering which students to accept. Buisnesses might compare their revenue to other companies by looking at quartiles.
 
 In fact quartiles are so commonly used that the three quartiles, along with the minimum and the maximum values of a dataset, are called the five-number summary of the dataset. These five numbers help you quickly get a sense of the range, centrality, and spread of the dataset.
+
+Quantiles are values that split a dataset into groups of equal size.
+If you have n quantiles, the dataset will be split into n+1 groups of equal size.
+The median is a quantile. It is the only 2-quantile. Half the data falls below the median and half falls above the median.
+Quartiles and percentiles are other common quantiles. Quartiles split the data into 4 groups while percentiles split the data into 100 groups.
