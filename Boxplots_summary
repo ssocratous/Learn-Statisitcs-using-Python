@@ -1,0 +1,8 @@
+Boxplots are one of the most common ways to visualize a dataset. Like histograms, boxplots give you a sense of the central tendency and spread of the data.
+
+Take a look at the boxplot on this page. This boxplot is visualizing a dataset containing the lengths of 9,975 songs. We’ll highlight some of the features of the boxplot and will dig into them in more detail in this lesson:
+
+The line in the center of the box is the median.
+The edges of the box are the first and third quartiles. This makes the length of the box the interquartile range — the middle 50% of your data.
+The whiskers of the boxplot extend to include most of the data. There are many different ways to calculate the length of the whiskers.
+Outliers are points that fall beyond the whiskers. Those points are represented with dots. 
